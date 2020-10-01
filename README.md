@@ -2,7 +2,7 @@
  Connecting to GitHub with SSH
 
 
-If you get these tyoe of errors when trying to add a remote:
+If you get these type of errors when trying to add a remote:
 
 The authenticity of host 'github.com (..)' can't be established. RSA key fingerprint is SH.... Are you sure you want to continue connecting (yes/no/[fingerprint])? yes Warning: Permanently added 'github.com,...' (RSA) to the list of known hosts. git@github.com: Permission denied (publickey). fatal: Could not read from remote repository.
 
